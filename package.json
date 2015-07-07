@@ -1,0 +1,23 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "Write a short Node.js program that reads the text file `node.txt` and logs it to the console, with every occurrence of the word 'Node' in green.",
+  "main": "script.js",
+  "dependencies": {
+    "chalk": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganimomer/node-basic-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganimomer/node-basic-exercise/issues"
+  },
+  "homepage": "https://github.com/ganimomer/node-basic-exercise#readme"
+}
